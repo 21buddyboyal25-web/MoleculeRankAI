@@ -14,6 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
+
 lib/
 lib64/
 parts/
@@ -217,3 +218,28 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 data/*.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Generated data
+data/*.csv
+
+# Model outputs
+*.pkl
+*.pt
+
+# Streamlit
+.streamlit/
+
+# Debug files
+debug_*.py
+check_*.py
+
+
+

@@ -1,2 +1,1 @@
-# MoleculeRankAI
-MoleculeRankAI is an explainable AI platform for drug discovery that predicts and ranks promising molecular candidates using molecular fingerprints, graph neural networks, Random Forest, XGBoost, ensemble learning, and SHAP-based interpretability.
+\# MoleculeRankAIAI-powered molecular ranking platform for drug discovery research.\## Project Structure\- `data/` - Dataset storage and preprocessing files\- `notebooks/` - Jupyter notebooks for experiments\- `models/` - Trained machine learning models\- `src/` - Core Python source code\- `dashboard/` - Visualization and application interface\## SetupInstall dependencies:```bashpip install -r requirements.txt
